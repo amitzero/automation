@@ -1,5 +1,5 @@
 import 'package:automation/views/automation_app.dart';
-import 'package:automation/confirmation_dialog.dart';
+import 'package:automation/views/confirmation_dialog.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MaterialApp(home: AutomationApp()));
