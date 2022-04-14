@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:automation/confirmation_dialog.dart';
+import 'package:automation/views/confirmation_dialog.dart';
 import 'package:automation/views/buttons_view.dart';
 import 'package:automation/views/console_view.dart';
 import 'package:automation/utils/app_data.dart';
